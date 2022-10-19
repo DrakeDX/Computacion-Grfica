@@ -1,11 +1,8 @@
 # [Computación Gráfica](https://github.com/DrakeDX/Computacion-Grfica)
 
 ```bash
-git clone --recursive https://github.com/DrakeDX/Computacion-Grfica.git
-```
-or
-```bash
 git clone https://github.com/DrakeDX/Computacion-Grfica.git
+cd Computacion-Grfica
 git submodule update --init --recursive
 ```
 Configurar vcpkg
